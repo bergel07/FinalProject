@@ -1,5 +1,5 @@
 # Ethical Hacking Technical Report
-**Client:** [TeckMart]  
+**Client:** [https://teckmart.com/]  
 **Date:** [10-05-2024]  
 **Prepared by:** [April Lyn Monte] and [Bergel Lumapag]  
 
